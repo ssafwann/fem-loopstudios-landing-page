@@ -78,6 +78,8 @@ body {
 body {
   text-rendering: optimizeSpeed;
   line-height: 1.5;
+  font-size: var(--fs-body);
+  font-family: var(--ff-body);
 }
 
 /* A elements that don't have a class get default styles */
@@ -136,10 +138,12 @@ svg {
 
 .fs-primary-heading {
   font-size: var(--fs-primary-heading);
+  font-family: var(--ff-heading);
 }
 
 .fs-secondary-heading {
   font-size: var(--fs-secondary-heading);
+  font-family: var(--ff-heading);
 }
 
 .fs-600 {
