@@ -8,8 +8,6 @@ Developed using HTML, CSS and Javascript
 
 ## Website Design
 
-<hr>
-
 ![Desktop design](design/desktop.png "Desktop design")
 
 ![Mobile design with menu closed](design/mobilemenuclosed.png "Mobile design with menu closed")
