@@ -6,6 +6,8 @@ hamburgerBtn.addEventListener("click", () => {
   const nav = document.querySelector(".primary-navigation");
   const body = document.querySelector("body");
 
+  const navlist = document.querySelector(".nav-list");
+
   if (nav.style.visibility === "hidden" || !nav.style.visibility) {
     nav.style.height = "100vh";
     nav.style.visibility = "visible";
