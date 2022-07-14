@@ -206,7 +206,7 @@ svg {
   margin: 0 auto;
 }
 
-.primary-navigation.is-enabled ul li {
+.primary-navigation.is-enabled .nav-list-item {
   animation: fadefromLeft 0.95s ease-out;
 }
 
@@ -429,6 +429,7 @@ svg {
   font-size: var(--fs-button);
   box-shadow: inset 0 0 0 0 var(--clr-primary-900);
   transition: box-shadow 0.3s ease-in-out;
+  color: var(--clr-primary-900);
 }
 
 .button:hover {
