@@ -161,7 +161,7 @@ svg {
 /* ! HERO */
 
 .hero {
-  background: url("images/mobile/image-hero.jpg");
+  background: url("images/mobile/image-hero.webp");
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -291,7 +291,7 @@ svg {
         rgba(0, 0, 0, 0) 60%,
         rgba(0, 0, 0, 0.8)
       ),
-      url("images/desktop/image-hero.jpg");
+      url("images/desktop/image-hero.webp");
   }
 
   .hero__heading {
