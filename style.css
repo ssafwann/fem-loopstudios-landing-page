@@ -154,7 +154,7 @@ svg {
 /* ? styling html */
 
 .container {
-  max-width: 85%;
+  width: 85%;
   margin: 0 auto;
   max-width: 1114px;
 }
@@ -282,7 +282,7 @@ svg {
 
 @media (min-width: 900px) {
   .container {
-    max-width: 75%;
+    width: 75%;
   }
 
   .hero {
